@@ -1,0 +1,19 @@
+.centriranjeTeksta {
+	text-align: center;
+}
+.plavaBoja {
+	color: royalblue;
+}
+.linijaPrekoTeksta {
+	text-decoration: line-through;
+}
+.velicinaIkonica {
+	width: 30px;
+}
+.zaobljenaSlika {
+	border-radius: 30px;
+	width: 350px;
+}
+.pozadinaAqua {
+	background-color: aqua;
+}
